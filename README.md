@@ -2,7 +2,9 @@
 
 A simple, modern Tic Tac Toe (X and O) web game built using **HTML**, **CSS**, and **JavaScript**. This beginner-friendly project focuses on clean design and smooth user experience.
 
-![Tic Tac Toe Screenshot](https://via.placeholder.com/600x400?text=Screenshot+Coming+Soon)
+![Tic Tac Toe Screenshot]
+![Screenshot 2025-05-21 163130](https://github.com/user-attachments/assets/93b9a420-d271-4b4d-a3d4-5d87b31c8b91)
+
 
 ---
 
